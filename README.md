@@ -1,3 +1,3 @@
 # Terminal Style Portfolio
 
-## Clone or Download the repo, and just oper the index.html in browser
+### `Clone or Download the repo, and just open the "index.html" in browser`
